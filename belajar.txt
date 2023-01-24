@@ -6,3 +6,4 @@ CI->LARAVEL9
 - Belajar Framework Laravel dengan lebih fokus.
 - Belajar Asas HTML, CSS + BOOTSTRAP, PHP, JAVASCRIPT.
 - Belajar Framework Laravel 9.
+- Cuba belajar membina 1 Web App Simple.
