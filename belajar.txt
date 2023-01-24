@@ -1,0 +1,9 @@
+SahirRadzi/belajar/web-development
+------------------
+CI->LARAVEL9
+
+- Belajar ilmu baru didalam dunia Teknologi Maklumat "programming".
+- Belajar Framework Laravel dengan lebih fokus.
+- Belajar Asas HTML, CSS + BOOTSTRAP, PHP, JAVASCRIPT.
+- Belajar Framework Laravel 9.
+- Cuba membina 1 Web App Simple.
